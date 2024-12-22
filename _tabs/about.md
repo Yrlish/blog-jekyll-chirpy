@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi, I am Dennis Alexandersson, a passionate software engineer with a focus on backend systems. With over 9 years of experience, I have had the opportunity to work with many different projects and technologies, of which my skills have grown massively, to name a few, languages and frameworks: `Java`, `Java EE` / `Jakarta EE`, `Spring Boot` / `Quarkus` and `PostgreSQL`.
+Hi, I am Dennis Alexandersson, a passionate software engineer with a focus on backend systems. With over 9 years of experience, I have had the opportunity to work on a variety of projects and technologies, which have greatly enhanced my skills. Some of the languages and frameworks I work with include `Java`, `Java EE` / `Jakarta EE`, `Spring Boot` / `Quarkus` and `PostgreSQL`.
 
 In my spare time, I enjoy tinkering with new technologies that I find interesting, which helps me stay creative and inspired.
 
