@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 1
 ---
 
 Hi, I am Dennis Alexandersson, a passionate software engineer with a focus on backend systems. With over 9 years of experience, I have had the opportunity to work on a variety of projects and technologies, which have greatly enhanced my skills. Some of the languages and frameworks I work with include `Java`, `Java EE` / `Jakarta EE`, `Spring Boot` / `Quarkus` and `PostgreSQL`.
