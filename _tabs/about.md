@@ -18,7 +18,7 @@ Both consultant firms and customer is listed in the headings.
 **Duration**: September 2024 - *present*
 
 **Languages**: `Java 21`, `JSON`, `XML`  
-**Frameworks**: `Spring Boot`, `Java EE` / `Jakarta EE`   
+**Frameworks**: `Spring Boot`, `Jakarta EE`   
 **Other Technologies**: `PostgreSQL`, `Docker`, `Rancher`, `Jenkins`, `RHEL8`
 
 **Description**:  
@@ -30,8 +30,8 @@ Participated in the initiative to transfer the management of public pensions fro
 **Position**: Software Engineer  
 **Duration**: February 2024 - August 2024 *(8m)*
 
-**Languages**: `Java 21`, `JavaScript`, `TypeScript`, `JSON`  
-**Frameworks**: `Spring Boot`, `Java EE` / `Jakarta EE`, `React`  
+**Languages**: `Java 17`, `JavaScript`, `TypeScript`, `JSON`  
+**Frameworks**: `Spring Boot`, `Jakarta EE`, `React`  
 **Other Technologies**: `PostgreSQL`, `Docker`, `Rancher`
 
 **Description**:  
@@ -43,8 +43,8 @@ Contributed to the development of a new IT support system for the geochemists' f
 **Position**: Software Engineer  
 **Duration**: January 2022 - January 2024 *(1y 1m)*
 
-**Languages**: `Java 11/17/21`, `JavaScript`, `TypeScript`, `Python`, `JSON`, `XML`  
-**Frameworks**: `Quarkus`, `Vue`  
+**Languages**: `Java 11/17`, `JavaScript`, `TypeScript`, `Python`, `JSON`, `XML`  
+**Frameworks**: `Quarkus`, `Java EE` / `Jakarta EE`, `Vue`  
 **Other Technologies**: `IBM Db2`, `Docker`, `OpenShift`, `Tekton`
 
 **Description**:  
@@ -55,7 +55,7 @@ Developed internal support systems to assist caseworkers in managing one of the 
 ### Combitech - FMV
 **Position**: Software Developer  
 **Duration**: August 2015 - December 2024 *(6y 5m)*  
-**Languages**: `Java 8/11/17`, `JavaScript`, `TypeScript`, `Python`, `JSON`, `XML`  
+**Languages**: `Java 8/11`, `JavaScript`, `TypeScript`, `Python`, `JSON`, `XML`  
 **Frameworks**: `JavaFX`, `Java EE`, `WildFly`, `React`, `Tornado Web Server`  
 **Other**: PostgreSQL, CentOS
 
