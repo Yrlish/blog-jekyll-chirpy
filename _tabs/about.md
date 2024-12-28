@@ -11,7 +11,7 @@ In my spare time, I enjoy tinkering with new technologies that I find interestin
 
 ## Work Experience
 
-Both consultant firms and customer is listed in the headings.
+Both consulting firms and customers are listed in the headings.
 
 ### Visionite - Pensionsmyndigheten
 **Position**: Senior Software Engineer  
@@ -21,7 +21,6 @@ Both consultant firms and customer is listed in the headings.
 **Frameworks**: `Spring Boot`, `Jakarta EE`   
 **Other Technologies**: `PostgreSQL`, `Docker`, `Rancher`, `Jenkins`, `RHEL8`
 
-**Description**:  
 Participated in the initiative to transfer the management of public pensions from the Swedish Social Insurance Agency *(Försäkringskassan)* to the Swedish Pensions Agency *(Pensionsmyndigheten)*.
 
 ---
@@ -34,7 +33,6 @@ Participated in the initiative to transfer the management of public pensions fro
 **Frameworks**: `Spring Boot`, `Jakarta EE`, `React`  
 **Other Technologies**: `PostgreSQL`, `Docker`, `Rancher`
 
-**Description**:  
 Contributed to the development of a new IT support system for the geochemists' field operations.
 
 ---
@@ -47,7 +45,6 @@ Contributed to the development of a new IT support system for the geochemists' f
 **Frameworks**: `Quarkus`, `Java EE` / `Jakarta EE`, `Vue`  
 **Other Technologies**: `IBM Db2`, `Docker`, `OpenShift`, `Tekton`
 
-**Description**:  
 Developed internal support systems to assist caseworkers in managing one of the many benefits handled by the Swedish Social Insurance Agency *(Försäkringskassan)*.
 
 ---
@@ -59,6 +56,5 @@ Developed internal support systems to assist caseworkers in managing one of the 
 **Frameworks**: `JavaFX`, `Java EE`, `WildFly`, `React`, `Tornado Web Server`  
 **Other**: PostgreSQL, CentOS
 
-**Description**:  
 Developed several different types of applications in various technologies, including standalone desktop applications, client-server solutions, and backend processing.
 
