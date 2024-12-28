@@ -55,7 +55,7 @@ Developed internal support systems to assist caseworkers in managing one of the 
 
 **Languages**: `Java 8/11`, `JavaScript`, `TypeScript`, `Python`, `JSON`, `XML`  
 **Frameworks**: `JavaFX`, `Java EE`, `WildFly`, `React`, `Tornado Web Server`  
-**Other**: PostgreSQL, CentOS
+**Other**: `PostgreSQL`, `CentOS`
 
 Developed several different types of applications in various technologies, including standalone desktop applications, client-server solutions, and backend processing.
 
