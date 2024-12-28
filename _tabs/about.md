@@ -27,7 +27,7 @@ Participated in the initiative to transfer the management of public pensions fro
 
 ### Visionite - SGU
 **Position**: Software Engineer  
-**Duration**: February 2024 - August 2024 *(8m)*
+**Duration**: February 2024 - August 2024 *(7m)*
 
 **Languages**: `Java 17`, `JavaScript`, `TypeScript`, `JSON`  
 **Frameworks**: `Spring Boot`, `Jakarta EE`, `React`  
@@ -39,7 +39,7 @@ Contributed to the development of a new IT support system for the geochemists' f
 
 ### Sogeti - Försäkringskassan
 **Position**: Software Engineer  
-**Duration**: January 2022 - January 2024 *(1y 1m)*
+**Duration**: January 2022 - January 2024 *(2y 1m)*
 
 **Languages**: `Java 11/17`, `JavaScript`, `TypeScript`, `Python`, `JSON`, `XML`  
 **Frameworks**: `Quarkus`, `Java EE` / `Jakarta EE`, `Vue`  
@@ -51,7 +51,8 @@ Developed internal support systems to assist caseworkers in managing one of the 
 
 ### Combitech - FMV
 **Position**: Software Developer  
-**Duration**: August 2015 - December 2024 *(6y 5m)*  
+**Duration**: August 2015 - December 2021 *(6y 5m)*
+
 **Languages**: `Java 8/11`, `JavaScript`, `TypeScript`, `Python`, `JSON`, `XML`  
 **Frameworks**: `JavaFX`, `Java EE`, `WildFly`, `React`, `Tornado Web Server`  
 **Other**: PostgreSQL, CentOS
